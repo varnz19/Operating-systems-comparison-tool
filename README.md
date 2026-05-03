@@ -61,6 +61,6 @@ python3 -m streamlit run app.py
 ```
 ###4. Open in browser
 (If it does not open automatically, go to:)
-bash ```
+```bash 
 http://localhost:8501
 ```
