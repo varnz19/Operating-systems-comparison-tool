@@ -50,12 +50,17 @@ The goal of this project is to provide both practical implementation and analyti
 ### 1. Navigate to the project folder
 ```bash
 cd os-algo-tool
-2. Install required libraries
+```
+###2. Install required libraries
+```bash
 pip3 install streamlit matplotlib
-3. Run the application
+```
+###3. Run the application
+```bash
 python3 -m streamlit run app.py
-4. Open in browser
-
-If it does not open automatically, go to:
-
+```
+###4. Open in browser
+(If it does not open automatically, go to:)
+bash ```
 http://localhost:8501
+```
